@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\repositories\\impl\\historialaccionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\repositories\\impl\\historialaccionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\controllers\\historialaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\controllers\\historialaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\servicios\\ihistorialaccionesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\servicios\\ihistorialaccionesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\servicios\\impl\\historialaccionesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\servicios\\impl\\historialaccionesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\models\\historialaccione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\models\\historialaccione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\repositories\\ihistorialaccionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\repositories\\ihistorialaccionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\models\\inventariotiendaelectronicacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\models\\inventariotiendaelectronicacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\frontend\\productos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\frontend\\productos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\repositories\\impl\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\repositories\\impl\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\dtos\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\dtos\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\repositories\\impl\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\repositories\\impl\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\servicios\\impl\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\servicios\\impl\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\configuration\\automapper\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\configuration\\automapper\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\servicios\\impl\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\servicios\\impl\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\servicios\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\servicios\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\dtos\\clientepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\dtos\\clientepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\servicios\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\servicios\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\servicios\\impl\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\servicios\\impl\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\dtos\\productorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\dtos\\productorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\repositories\\impl\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\repositories\\impl\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\servicios\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\servicios\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|c:\\users\\agustin\\source\\repos\\finalgestioninventario\\finalgestioninventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2443F6B4-666F-489D-8E05-4342410ED171}|FinalGestionInventario\\FinalGestionInventario.csproj|solutionrelative:finalgestioninventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistorialAccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Controllers\\HistorialAccionesController.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Controllers\\HistorialAccionesController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Controllers\\HistorialAccionesController.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Controllers\\HistorialAccionesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:31:12.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistorialAccionesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\Impl\\HistorialAccionesRepository.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Repositories\\Impl\\HistorialAccionesRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\Impl\\HistorialAccionesRepository.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Repositories\\Impl\\HistorialAccionesRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwCIAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:39:39.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistorialAccionesService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\Impl\\HistorialAccionesService.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Servicios\\Impl\\HistorialAccionesService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\Impl\\HistorialAccionesService.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Servicios\\Impl\\HistorialAccionesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:37:39.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Program.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Program.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswDIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:36:55.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistorialAccione.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Models\\HistorialAccione.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Models\\HistorialAccione.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Models\\HistorialAccione.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Models\\HistorialAccione.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:36:18.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHistorialAccionesService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\IHistorialAccionesService.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Servicios\\IHistorialAccionesService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\IHistorialAccionesService.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Servicios\\IHistorialAccionesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:37:13.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHistorialAccionesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\IHistorialAccionesRepository.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Repositories\\IHistorialAccionesRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\IHistorialAccionesRepository.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Repositories\\IHistorialAccionesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:39:23.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventarioTiendaElectronicaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Models\\InventarioTiendaElectronicaContext.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Models\\InventarioTiendaElectronicaContext.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Models\\InventarioTiendaElectronicaContext.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Models\\InventarioTiendaElectronicaContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwBkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:36:19.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\Impl\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Repositories\\Impl\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\Impl\\ProductoRepository.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Repositories\\Impl\\ProductoRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:41:07.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:46:53.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\DTOs\\ProductoUpdateDto.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\DTOs\\ProductoUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\DTOs\\ProductoUpdateDto.cs",
+              "RelativeToolTip": "FinalGestionInventario\\DTOs\\ProductoUpdateDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:14:28.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Models\\Producto.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Models\\Producto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:56:35.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Repositories\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\IClienteRepository.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Repositories\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:39:03.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:31:06.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\DTOs\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\DTOs\\ProductoDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\DTOs\\ProductoDto.cs",
+              "RelativeToolTip": "FinalGestionInventario\\DTOs\\ProductoDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:57:08.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\DTOs\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\DTOs\\CategoriaDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\DTOs\\CategoriaDto.cs",
+              "RelativeToolTip": "FinalGestionInventario\\DTOs\\CategoriaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:59:02.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AutoMapperConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Configuration\\AutoMapper\\AutoMapperConfiguration.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Configuration\\AutoMapper\\AutoMapperConfiguration.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Configuration\\AutoMapper\\AutoMapperConfiguration.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Configuration\\AutoMapper\\AutoMapperConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:04:20.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\Impl\\ProductoService.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Servicios\\Impl\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\Impl\\ProductoService.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Servicios\\Impl\\ProductoService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:44:32.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\IClienteService.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Servicios\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\IClienteService.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Servicios\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:36:16.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:45:19.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\Impl\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Repositories\\Impl\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\Impl\\ClienteRepository.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Repositories\\Impl\\ClienteRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAASwBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:39:15.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Productos.html",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Frontend\\Productos.html",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Frontend\\Productos.html",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Frontend\\Productos.html",
+              "RelativeToolTip": "FinalGestionInventario\\Frontend\\Productos.html",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-12T22:09:15.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\Impl\\ClienteService.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Servicios\\Impl\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\Impl\\ClienteService.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Servicios\\Impl\\ClienteService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:37:07.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClientePostDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\DTOs\\ClientePostDto.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\DTOs\\ClientePostDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\DTOs\\ClientePostDto.cs",
+              "RelativeToolTip": "FinalGestionInventario\\DTOs\\ClientePostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:45:48.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Repositories\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\ICategoriaRepository.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Repositories\\ICategoriaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:49:34.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\IProductoService.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Servicios\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\IProductoService.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Servicios\\IProductoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:43:09.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\Impl\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Servicios\\Impl\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\Impl\\CategoriaService.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Servicios\\Impl\\CategoriaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:47:46.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Repositories\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\IProductoRepository.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Repositories\\IProductoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:39:38.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductoRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\DTOs\\ProductoRequestDto.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\DTOs\\ProductoRequestDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\DTOs\\ProductoRequestDto.cs",
+              "RelativeToolTip": "FinalGestionInventario\\DTOs\\ProductoRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:27:36.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Servicios\\ICategoriaService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Servicios\\ICategoriaService.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Servicios\\ICategoriaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:47:04.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\Impl\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Repositories\\Impl\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Repositories\\Impl\\CategoriaRepository.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Repositories\\Impl\\CategoriaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:49:45.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\Models\\Categoria.cs",
+              "RelativeToolTip": "FinalGestionInventario\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:59:07.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalGestionInventario\\appsettings.json",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\FinalGestionInventario\\FinalGestionInventario\\appsettings.json",
+              "RelativeToolTip": "FinalGestionInventario\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T19:36:04.654Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1292,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

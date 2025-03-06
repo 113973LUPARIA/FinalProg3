@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|c:\\users\\agustin\\desktop\\final030225\\apifinal030225\\apifinal030225\\controllers\\examencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|solutionrelative:apifinal030225\\controllers\\examencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|c:\\users\\agustin\\desktop\\final030225\\apifinal030225\\apifinal030225\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|solutionrelative:apifinal030225\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|c:\\users\\agustin\\desktop\\final030225\\apifinal030225\\apifinal030225\\frontend\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|solutionrelative:apifinal030225\\frontend\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|c:\\users\\agustin\\desktop\\final030225\\apifinal030225\\apifinal030225\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|solutionrelative:apifinal030225\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|c:\\users\\agustin\\desktop\\final030225\\apifinal030225\\apifinal030225\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|solutionrelative:apifinal030225\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|c:\\users\\agustin\\desktop\\final030225\\apifinal030225\\apifinal030225\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|solutionrelative:apifinal030225\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|c:\\users\\agustin\\desktop\\final030225\\apifinal030225\\apifinal030225\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|solutionrelative:apifinal030225\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|c:\\users\\agustin\\desktop\\final030225\\apifinal030225\\apifinal030225\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|solutionrelative:apifinal030225\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|c:\\users\\agustin\\desktop\\final030225\\apifinal030225\\apifinal030225\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|solutionrelative:apifinal030225\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|c:\\users\\agustin\\desktop\\final030225\\apifinal030225\\apifinal030225\\dtos\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|solutionrelative:apifinal030225\\dtos\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|c:\\users\\agustin\\desktop\\final030225\\apifinal030225\\apifinal030225\\models\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|solutionrelative:apifinal030225\\models\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|c:\\users\\agustin\\desktop\\final030225\\apifinal030225\\apifinal030225\\apifinal030225.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{236095B3-6A98-4EE2-BD50-96EB6F537AC0}|ApiFinal030225\\ApiFinal030225.csproj|solutionrelative:apifinal030225\\apifinal030225.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.html",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\FrontEnd\\Login.html",
+              "RelativeDocumentMoniker": "ApiFinal030225\\FrontEnd\\Login.html",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\FrontEnd\\Login.html",
+              "RelativeToolTip": "ApiFinal030225\\FrontEnd\\Login.html",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-05T01:18:24.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ApiFinal030225\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "ApiFinal030225\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:09:19.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiFinal030225\\appsettings.json",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\appsettings.json",
+              "RelativeToolTip": "ApiFinal030225\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T19:03:49.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\Program.cs",
+              "RelativeDocumentMoniker": "ApiFinal030225\\Program.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\Program.cs",
+              "RelativeToolTip": "ApiFinal030225\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:00:54.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\Models\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "ApiFinal030225\\Models\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\Models\\ApiDbContext.cs",
+              "RelativeToolTip": "ApiFinal030225\\Models\\ApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:59:26.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ApiFinal030225\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ApiFinal030225\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:58:45.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamenController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\Controllers\\ExamenController.cs",
+              "RelativeDocumentMoniker": "ApiFinal030225\\Controllers\\ExamenController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\Controllers\\ExamenController.cs",
+              "RelativeToolTip": "ApiFinal030225\\Controllers\\ExamenController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:15:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\DTOs\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "ApiFinal030225\\DTOs\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\DTOs\\UsuarioDto.cs",
+              "RelativeToolTip": "ApiFinal030225\\DTOs\\UsuarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:12:26.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RolDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\DTOs\\RolDto.cs",
+              "RelativeDocumentMoniker": "ApiFinal030225\\DTOs\\RolDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\DTOs\\RolDto.cs",
+              "RelativeToolTip": "ApiFinal030225\\DTOs\\RolDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:12:33.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "ApiFinal030225\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\Models\\Rol.cs",
+              "RelativeToolTip": "ApiFinal030225\\Models\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:51:18.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ApiFinal030225\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\Models\\Usuario.cs",
+              "RelativeToolTip": "ApiFinal030225\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:51:10.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiFinal030225.csproj",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\ApiFinal030225.csproj",
+              "RelativeDocumentMoniker": "ApiFinal030225\\ApiFinal030225.csproj",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Final030225\\ApiFinal030225\\ApiFinal030225\\ApiFinal030225.csproj",
+              "RelativeToolTip": "ApiFinal030225\\ApiFinal030225.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T18:50:45.055Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1292,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

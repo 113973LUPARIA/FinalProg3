@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\controllers\\recetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\controllers\\recetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\dtos\\mealresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\dtos\\mealresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\configs\\automapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\configs\\automapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\dtos\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\dtos\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\dtos\\recetadtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\dtos\\recetadtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\models\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\models\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\dtos\\ingredientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\dtos\\ingredientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\dtos\\recetadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\dtos\\recetadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\models\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\models\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\servicios\\implementacion\\recetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\servicios\\implementacion\\recetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\servicios\\irecetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\servicios\\irecetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\models\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\models\\recetasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|c:\\users\\agustin\\source\\repos\\apirecetas\\apirecetas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEF2E370-3411-45B7-842E-DE731B112EA7}|ApiRecetas\\ApiRecetas.csproj|solutionrelative:apirecetas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecetaController.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Controllers\\RecetaController.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\Controllers\\RecetaController.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Controllers\\RecetaController.cs",
+              "RelativeToolTip": "ApiRecetas\\Controllers\\RecetaController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAHgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:35:07.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Configs\\AutoMapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\Configs\\AutoMapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Configs\\AutoMapper\\AutoMapper.cs",
+              "RelativeToolTip": "ApiRecetas\\Configs\\AutoMapper\\AutoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:56:35.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Program.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\Program.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Program.cs",
+              "RelativeToolTip": "ApiRecetas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:32:59.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\DTOs\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\DTOs\\CategoriaDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\DTOs\\CategoriaDto.cs",
+              "RelativeToolTip": "ApiRecetas\\DTOs\\CategoriaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:56:15.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ingrediente.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Models\\Ingrediente.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\Models\\Ingrediente.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Models\\Ingrediente.cs",
+              "RelativeToolTip": "ApiRecetas\\Models\\Ingrediente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:34:22.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MealResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\DTOs\\MealResponse.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\DTOs\\MealResponse.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\DTOs\\MealResponse.cs",
+              "RelativeToolTip": "ApiRecetas\\DTOs\\MealResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:27:35.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meal.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\DTOs\\Meal.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\DTOs\\Meal.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\DTOs\\Meal.cs",
+              "RelativeToolTip": "ApiRecetas\\DTOs\\Meal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:29:07.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IngredienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\DTOs\\IngredienteDto.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\DTOs\\IngredienteDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\DTOs\\IngredienteDto.cs",
+              "RelativeToolTip": "ApiRecetas\\DTOs\\IngredienteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:56:32.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Receta.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Models\\Receta.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\Models\\Receta.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Models\\Receta.cs",
+              "RelativeToolTip": "ApiRecetas\\Models\\Receta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:34:15.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecetaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\DTOs\\RecetaDto.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\DTOs\\RecetaDto.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\DTOs\\RecetaDto.cs",
+              "RelativeToolTip": "ApiRecetas\\DTOs\\RecetaDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:55:00.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecetaDtoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\DTOs\\RecetaDtoRequest.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\DTOs\\RecetaDtoRequest.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\DTOs\\RecetaDtoRequest.cs",
+              "RelativeToolTip": "ApiRecetas\\DTOs\\RecetaDtoRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:14:51.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Models\\Categoria.cs",
+              "RelativeToolTip": "ApiRecetas\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:34:29.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecetaService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Servicios\\Implementacion\\RecetaService.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\Servicios\\Implementacion\\RecetaService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Servicios\\Implementacion\\RecetaService.cs",
+              "RelativeToolTip": "ApiRecetas\\Servicios\\Implementacion\\RecetaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:12:27.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRecetaService.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Servicios\\IRecetaService.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\Servicios\\IRecetaService.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Servicios\\IRecetaService.cs",
+              "RelativeToolTip": "ApiRecetas\\Servicios\\IRecetaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:11:56.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RecetasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Models\\RecetasDbContext.cs",
+              "RelativeDocumentMoniker": "ApiRecetas\\Models\\RecetasDbContext.cs",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\Models\\RecetasDbContext.cs",
+              "RelativeToolTip": "ApiRecetas\\Models\\RecetasDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:47:48.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiRecetas\\appsettings.json",
+              "ToolTip": "C:\\Users\\Agustin\\source\\repos\\ApiRecetas\\ApiRecetas\\appsettings.json",
+              "RelativeToolTip": "ApiRecetas\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T00:30:12.511Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1292,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fw0c+BAr9npqGnIPTJtWImA38xCT0BCmUcxQnSvDV20=",
+  "Source": "ApiTemperaturas",
+  "BasePath": "_content/ApiTemperaturas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+    <div class="container d-flex justify-content-center align-items-center vh-100">
+        <div class="card p-4 shadow" style="width: 100%; max-width: 400px;">
+            <h2 class="text-center mb-4">Iniciar Sesión</h2>
+            <form id="loginForm">
+                <div class="mb-3">
+                    <label for="email" class="form-label">Correo Electrónico</label>
+                    <input type="email" class="form-control" id="email" placeholder="usuario@ejemplo.com" required>
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Contraseña</label>
+                    <input type="password" class="form-control" id="password" placeholder="Contraseña" required>
+                </div>
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary">Iniciar Sesión</button>
+                </div>
+            </form>
+            <div id="message" class="mt-3 text-center"></div>
+        </div>
+    </div>
+
+    <script>
+        const loginForm = document.getElementById('loginForm');
+        const messageDiv = document.getElementById('message');
+
+        loginForm.addEventListener('submit', async (event) => {
+            event.preventDefault(); // Evitar el envío del formulario por defecto
+
+            // Obtener los valores de los campos
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+
+            try {
+                // Enviar la solicitud POST al endpoint de login
+                const response = await fetch('https://localhost:7297/api/Usuario/login', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ email, password })
+                });
+
+                const token = await response.text();
+
+                if (response.ok) {
+                    // Mostrar mensaje de éxito y redirigir
+                    messageDiv.innerHTML = '<div class="alert alert-success">Inicio de sesión exitoso. Redirigiendo...</div>';
+                    setTimeout(() => {
+                        // Guardar el token en localStorage
+                        localStorage.setItem('authToken', token);
+                        window.location.href = 'productos.html'; // Redirigir a la página de productos
+                    }, 1500);
+                } else {
+                    // Mostrar mensaje de error
+                    messageDiv.innerHTML = `<div class="alert alert-danger">${data.message || 'Credenciales inválidas.'}</div>`;
+                }
+            } catch (error) {
+                // Manejo de errores en caso de problemas con la solicitud
+                messageDiv.innerHTML = '<div class="alert alert-danger">Error al conectar con el servidor.</div>';
+            }
+        });
+    </script>
+</body>
+</html>

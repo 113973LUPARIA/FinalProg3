@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <title>Final Progra 3</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    
+</head>
+
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <h1>Final Progra 3</h1>
+    <div class="container mt-5">
+        <h2>Listado de Ciudades</h2>
+        <select id="selectCiudades">
+            <option>Seleccione al menos uno...</option>
+        </select>
+        <br>
+
+        <button class="button" id="botonTemp">Obtener Clima</button>
+    </div>
+
+
+    <br>
+    <div class="container mt-5">
+        <h2>Listado de Temperatura</h2>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Ciudad</th>
+                    <th>Temperatura</th>
+                    <th>Sensacion Termica</th>
+                    <th>Humedad</th>
+                    <th>Descripcion</th>
+                </tr>
+            </thead>
+            <tbody id="tablaTemperatura"></tbody>
+        </table>
+        <button class="submit" id="botonCargar">Guardar</button>
+    </div>
+
+
+    
+    
+    <script>
+
+
+        async function cargarCiudades(){
+            const response = await fetch('http://api.geonames.org/searchJSON?country=AR&adminCode1=05&featureClass=P&maxRows=10&username=nicolashorenstein');
+            const ciudades = await response.json();
+            const seleccion = document.getElementById("selectCiudades");
+            ciudades.geonames.forEach(ciudad =>{
+                seleccion.innerHTML += `<option value="${ciudad.name}">${ciudad.name}</option>`;
+            })
+        }
+        cargarCiudades();
+
+        document.getElementById('botonTemp').addEventListener('click', async () => {
+            const ciudad = document.getElementById("selectCiudades").value;
+            console.log(ciudad)
+            const url = "https://api.openweathermap.org/data/2.5/weather?q="+ciudad+",AR&appid=77bf65121032e7800ebe2d413db11790&units=metric&lang=es"
+            console.log(url);
+            const response = await fetch(url);
+            const temperaturas = await response.json();
+
+            const tabla = document.getElementById('tablaTemperatura');
+
+            var color = 'color:green'
+            if(temperaturas.main.temp > 25 && temperaturas.main.temp < 33){
+                color = 'color:orange'
+            }else if(temperaturas.main.temp > 33){color = 'color:red'}
+            tabla.innerHTML = ''
+
+            tabla.innerHTML += `
+            <tr>
+                <td id="ciudad">${temperaturas.name}</td>
+                <td id="temp" style="${color}">${temperaturas.main.temp}</td>
+                <td id="senTermica">${temperaturas.main.feels_like}</td>
+                <td id="cielo">${temperaturas.main.humidity}%</td>
+                <td id="descripcion">${temperaturas.weather[0].description}</td>
+            </tr>`;
+        });
+        document.getElementById('botonCargar').addEventListener('click', async () => {
+            const ciudad = document.getElementById('ciudad').innerText;
+            const temp = document.getElementById('temp').innerText;
+            const senTermica = document.getElementById('senTermica').innerText;
+            const cielo = document.getElementById('cielo').innerText;
+            const descripcion = document.getElementById('descripcion').innerText;
+            const url = 'https://localhost:7155/api/Temperatura'
+            console.log(ciudad, temp, senTermica, cielo, descripcion)
+            console.log(JSON.stringify({ciudad, temp, senTermica, cielo, descripcion}));
+            const response = await fetch(url,{
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ciudad, temp, senTermica, cielo, descripcion})
+                });
+            const temperaturas = await response;
+            console.log("hola: "+temperaturas)
+
+            if(temperaturas.ok){
+                alert("Carga Exitosa")
+            }else{
+                alert("Error")
+            }
+
+            }
+        );      
+
+        
+        
+    </script>
+
+</body>
+</html>

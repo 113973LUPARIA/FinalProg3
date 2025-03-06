@@ -1,0 +1,6 @@
+@ApiFinalLuparia_HostAddress = http://localhost:5230
+
+GET {{ApiFinalLuparia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
